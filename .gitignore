@@ -1,5 +1,11 @@
 # Data
-/data/
+/data/*
+!/data/sample/
+!/data/sample/**
+/data/external/
+
+# Local Power BI report may contain confidential sales data
+/reports/Ventas\ 2022-2025.pbix
 
 # Mac OS-specific storage files
 .DS_Store
