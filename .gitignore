@@ -4,6 +4,9 @@
 !/data/sample/**
 /data/external/
 
+# Classroom reference scripts are not part of this project
+/winery_direct_sales_viability/ejemplos_clase/
+
 # Local Power BI report may contain confidential sales data
 /reports/Ventas\ 2022-2025.pbix
 
